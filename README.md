@@ -1,3 +1,3 @@
-# Your blog
+# My blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+I write all about data. Intersted in machine learning , deep learning head over to [Data Chatter!](https://poonamvligade.github.io/) 
