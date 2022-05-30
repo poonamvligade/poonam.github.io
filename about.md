@@ -19,10 +19,13 @@ I’m currently working on making AI accessible and affordable to masses at Jarv
 3. [Real estate prediction on Zillow with prophet](https://www.kaggle.com/poonaml/real-estate-prediction-on-zillow-with-prophet) (Won weekly kernel award)
 
 
+# Blogs
+[Understanding Resnet Architecture](https://jarvislabs.ai/blogs/resnet/)
+
 # [Medium](https://medium.com/@poonam.v.ligade)
 Wrote a blog post about weight intialization in neural networks in Towards Data Science Publication.
 
 [Why cautiously initializing deep neural networks matters?](https://towardsdatascience.com/what-is-weight-initialization-in-neural-nets-and-why-it-matters-ec45398f99fa)
 
 
-📫 Follow me on Twitter
+📫 Follow me on [Twitter](https://twitter.com/Poonamligade)
